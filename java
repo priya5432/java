@@ -1,3 +1,3 @@
-Hi JAVA
-This is for mirza
-This is for prasad
+echo "Hi JAVA"
+echo "This is for mirza"
+echo "This is for prasad"
